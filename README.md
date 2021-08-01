@@ -28,9 +28,14 @@ npm start
 Open Web Brower an run:
 http://localhost:8444/
 
+CSS file:
 public\css\styles.css
+
+JS file:
 public\js\script.js
 
+Example in: 
+https://tic-tac-toe-js-css.herokuapp.com/
 ...
 
 JCD
